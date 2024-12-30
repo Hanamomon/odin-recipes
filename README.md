@@ -1,0 +1,1 @@
+This is the first project in the Odin curriculum meant to practice a couple of basic concepts in HTML and build a recipe website.
