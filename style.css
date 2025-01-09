@@ -1,0 +1,17 @@
+body {
+    background-image: url(backg.jpeg);
+    background-color: #cccc;
+}
+h1 {
+    text-align: center;
+    color: gold;
+    font-family: Verdana, 'Times New Roman', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+a {
+    background-color: wheat;
+    font-size: 30px;
+    color: grey;
+    text-align: center;
+}

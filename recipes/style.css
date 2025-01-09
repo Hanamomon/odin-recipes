@@ -1,0 +1,26 @@
+body {
+    background-image: url(../backg.jpeg);
+    background-color: #cccc;
+}
+h1 {
+    text-align: center;
+    color: gold;
+    font-family: Verdana, 'Times New Roman', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+img {
+    height: 225;
+    width: auto;
+}
+h3 {
+    font-family: Helvetica, Arial , sans-serif;
+    color: green;
+    font-size: 24px;
+}
+.list {
+    background-color: rgb(92, 15, 165);
+    color: rgb(255, 255, 255);
+    font-family: Georgia, sans-serif;
+    font-weight: bold;
+}
